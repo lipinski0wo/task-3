@@ -8,6 +8,8 @@ npm run start
 
 npm run test
 
+! remember to change baseURL in src/config.json
+
 ## Motivation
 
 As recommended by the tasks, I used React
